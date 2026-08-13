@@ -9,10 +9,10 @@ class Solution {
             int minHeight=Math.min(height[i],height[j]);
             int res=distance*minHeight;
             ans=Math.max(ans,res);
-            if(height[i]<height[j]){
+            while(i<j && height[i]<=minHeight){
                 i++;
-            }else
-            {
+            }
+            while(i<j && height[j]<=minHeight){
                 j--;
             }
         }
