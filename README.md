@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/tharunacharya/JAVA-DSA/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/tharunacharya/JAVA-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/tharunacharya/JAVA-DSA/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/tharunacharya/JAVA-DSA/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tharunacharya/JAVA-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0239-sliding-window-maximum](https://github.com/tharunacharya/JAVA-DSA/tree/master/0239-sliding-window-maximum) |
 | [0485-max-consecutive-ones](https://github.com/tharunacharya/JAVA-DSA/tree/master/0485-max-consecutive-ones) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/tharunacharya/JAVA-DSA/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/tharunacharya/JAVA-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/tharunacharya/JAVA-DSA/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/tharunacharya/JAVA-DSA/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tharunacharya/JAVA-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Greedy
 |  |
@@ -71,4 +73,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tharunacharya/JAVA-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/tharunacharya/JAVA-DSA/tree/master/0075-sort-colors) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/tharunacharya/JAVA-DSA/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/tharunacharya/JAVA-DSA/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
