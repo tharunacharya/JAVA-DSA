@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/tharunacharya/JAVA-DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/tharunacharya/JAVA-DSA/tree/master/0076-minimum-window-substring) |
+| [2938-separate-black-and-white-balls](https://github.com/tharunacharya/JAVA-DSA/tree/master/2938-separate-black-and-white-balls) |
 ## Sliding Window
 |  |
 | ------- |
@@ -53,10 +54,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/tharunacharya/JAVA-DSA/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/tharunacharya/JAVA-DSA/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tharunacharya/JAVA-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [2938-separate-black-and-white-balls](https://github.com/tharunacharya/JAVA-DSA/tree/master/2938-separate-black-and-white-balls) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/tharunacharya/JAVA-DSA/tree/master/0011-container-with-most-water) |
+| [2938-separate-black-and-white-balls](https://github.com/tharunacharya/JAVA-DSA/tree/master/2938-separate-black-and-white-balls) |
 ## Dynamic Programming
 |  |
 | ------- |
