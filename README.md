@@ -31,10 +31,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tharunacharya/JAVA-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0239-sliding-window-maximum](https://github.com/tharunacharya/JAVA-DSA/tree/master/0239-sliding-window-maximum) |
 | [0485-max-consecutive-ones](https://github.com/tharunacharya/JAVA-DSA/tree/master/0485-max-consecutive-ones) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/tharunacharya/JAVA-DSA/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Queue
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/tharunacharya/JAVA-DSA/tree/master/0239-sliding-window-maximum) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/tharunacharya/JAVA-DSA/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -89,4 +91,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/tharunacharya/JAVA-DSA/tree/master/0075-sort-colors) |
+## Math
+|  |
+| ------- |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/tharunacharya/JAVA-DSA/tree/master/1823-find-the-winner-of-the-circular-game) |
+## Recursion
+|  |
+| ------- |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/tharunacharya/JAVA-DSA/tree/master/1823-find-the-winner-of-the-circular-game) |
+## Simulation
+|  |
+| ------- |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/tharunacharya/JAVA-DSA/tree/master/1823-find-the-winner-of-the-circular-game) |
 <!---LeetCode Topics End-->
