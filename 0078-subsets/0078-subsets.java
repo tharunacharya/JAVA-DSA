@@ -1,8 +1,7 @@
 class Solution {
     public List<List<Integer>> subsets(int[] nums) {
         List<List<Integer>> res=new ArrayList<>();
-        List<Integer> cur=new ArrayList<>();
-        sub(0,nums, cur, res);
+        sub(0,nums, new ArrayList<>(), res);
         return res;
         
     }
