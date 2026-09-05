@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/tharunacharya/JAVA-DSA/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/tharunacharya/JAVA-DSA/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/tharunacharya/JAVA-DSA/tree/master/0047-permutations-ii) |
+| [0051-n-queens](https://github.com/tharunacharya/JAVA-DSA/tree/master/0051-n-queens) |
 | [0075-sort-colors](https://github.com/tharunacharya/JAVA-DSA/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/tharunacharya/JAVA-DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/tharunacharya/JAVA-DSA/tree/master/0090-subsets-ii) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/tharunacharya/JAVA-DSA/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/tharunacharya/JAVA-DSA/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/tharunacharya/JAVA-DSA/tree/master/0047-permutations-ii) |
+| [0051-n-queens](https://github.com/tharunacharya/JAVA-DSA/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/tharunacharya/JAVA-DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/tharunacharya/JAVA-DSA/tree/master/0090-subsets-ii) |
 ## Bit Manipulation
@@ -134,4 +136,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/tharunacharya/JAVA-DSA/tree/master/0022-generate-parentheses) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/tharunacharya/JAVA-DSA/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
