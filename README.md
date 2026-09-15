@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/tharunacharya/JAVA-DSA/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/tharunacharya/JAVA-DSA/tree/master/0038-count-and-say) |
 | [0076-minimum-window-substring](https://github.com/tharunacharya/JAVA-DSA/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/tharunacharya/JAVA-DSA/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/tharunacharya/JAVA-DSA/tree/master/0131-palindrome-partitioning) |
 | [2938-separate-black-and-white-balls](https://github.com/tharunacharya/JAVA-DSA/tree/master/2938-separate-black-and-white-balls) |
 ## Sliding Window
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/tharunacharya/JAVA-DSA/tree/master/0051-n-queens) |
 | [0075-sort-colors](https://github.com/tharunacharya/JAVA-DSA/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/tharunacharya/JAVA-DSA/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/tharunacharya/JAVA-DSA/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/tharunacharya/JAVA-DSA/tree/master/0090-subsets-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tharunacharya/JAVA-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0239-sliding-window-maximum](https://github.com/tharunacharya/JAVA-DSA/tree/master/0239-sliding-window-maximum) |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/tharunacharya/JAVA-DSA/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/tharunacharya/JAVA-DSA/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/tharunacharya/JAVA-DSA/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/tharunacharya/JAVA-DSA/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/tharunacharya/JAVA-DSA/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/tharunacharya/JAVA-DSA/tree/master/0131-palindrome-partitioning) |
 ## Bit Manipulation
@@ -151,8 +154,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/tharunacharya/JAVA-DSA/tree/master/0037-sudoku-solver) |
+| [0079-word-search](https://github.com/tharunacharya/JAVA-DSA/tree/master/0079-word-search) |
 ## Dancing Links
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/tharunacharya/JAVA-DSA/tree/master/0037-sudoku-solver) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/tharunacharya/JAVA-DSA/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
