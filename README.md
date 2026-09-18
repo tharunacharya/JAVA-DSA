@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/tharunacharya/JAVA-DSA/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/tharunacharya/JAVA-DSA/tree/master/0070-climbing-stairs) |
 | [0131-palindrome-partitioning](https://github.com/tharunacharya/JAVA-DSA/tree/master/0131-palindrome-partitioning) |
+| [0338-counting-bits](https://github.com/tharunacharya/JAVA-DSA/tree/master/0338-counting-bits) |
 | [0509-fibonacci-number](https://github.com/tharunacharya/JAVA-DSA/tree/master/0509-fibonacci-number) |
 ## Stack
 |  |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/tharunacharya/JAVA-DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/tharunacharya/JAVA-DSA/tree/master/0090-subsets-ii) |
+| [0338-counting-bits](https://github.com/tharunacharya/JAVA-DSA/tree/master/0338-counting-bits) |
 ## Bracket Sequences
 |  |
 | ------- |
