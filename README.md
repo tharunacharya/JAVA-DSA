@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tharunacharya/JAVA-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0239-sliding-window-maximum](https://github.com/tharunacharya/JAVA-DSA/tree/master/0239-sliding-window-maximum) |
 | [0485-max-consecutive-ones](https://github.com/tharunacharya/JAVA-DSA/tree/master/0485-max-consecutive-ones) |
+| [0746-min-cost-climbing-stairs](https://github.com/tharunacharya/JAVA-DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/tharunacharya/JAVA-DSA/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Queue
 |  |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/tharunacharya/JAVA-DSA/tree/master/0131-palindrome-partitioning) |
 | [0338-counting-bits](https://github.com/tharunacharya/JAVA-DSA/tree/master/0338-counting-bits) |
 | [0509-fibonacci-number](https://github.com/tharunacharya/JAVA-DSA/tree/master/0509-fibonacci-number) |
+| [0746-min-cost-climbing-stairs](https://github.com/tharunacharya/JAVA-DSA/tree/master/0746-min-cost-climbing-stairs) |
 ## Stack
 |  |
 | ------- |
