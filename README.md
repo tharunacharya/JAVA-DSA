@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/tharunacharya/JAVA-DSA/tree/master/0239-sliding-window-maximum) |
 | [0322-coin-change](https://github.com/tharunacharya/JAVA-DSA/tree/master/0322-coin-change) |
 | [0485-max-consecutive-ones](https://github.com/tharunacharya/JAVA-DSA/tree/master/0485-max-consecutive-ones) |
+| [0518-coin-change-ii](https://github.com/tharunacharya/JAVA-DSA/tree/master/0518-coin-change-ii) |
 | [0746-min-cost-climbing-stairs](https://github.com/tharunacharya/JAVA-DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/tharunacharya/JAVA-DSA/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Queue
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/tharunacharya/JAVA-DSA/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/tharunacharya/JAVA-DSA/tree/master/0338-counting-bits) |
 | [0509-fibonacci-number](https://github.com/tharunacharya/JAVA-DSA/tree/master/0509-fibonacci-number) |
+| [0518-coin-change-ii](https://github.com/tharunacharya/JAVA-DSA/tree/master/0518-coin-change-ii) |
 | [0746-min-cost-climbing-stairs](https://github.com/tharunacharya/JAVA-DSA/tree/master/0746-min-cost-climbing-stairs) |
 ## Stack
 |  |
@@ -191,8 +193,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/tharunacharya/JAVA-DSA/tree/master/0322-coin-change) |
+| [0518-coin-change-ii](https://github.com/tharunacharya/JAVA-DSA/tree/master/0518-coin-change-ii) |
 ## Complete Knapsack
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/tharunacharya/JAVA-DSA/tree/master/0322-coin-change) |
+| [0518-coin-change-ii](https://github.com/tharunacharya/JAVA-DSA/tree/master/0518-coin-change-ii) |
 <!---LeetCode Topics End-->
