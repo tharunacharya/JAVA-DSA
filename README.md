@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/tharunacharya/JAVA-DSA/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/tharunacharya/JAVA-DSA/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/tharunacharya/JAVA-DSA/tree/master/0131-palindrome-partitioning) |
+| [0516-longest-palindromic-subsequence](https://github.com/tharunacharya/JAVA-DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [2938-separate-black-and-white-balls](https://github.com/tharunacharya/JAVA-DSA/tree/master/2938-separate-black-and-white-balls) |
 ## Sliding Window
 |  |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/tharunacharya/JAVA-DSA/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/tharunacharya/JAVA-DSA/tree/master/0338-counting-bits) |
 | [0509-fibonacci-number](https://github.com/tharunacharya/JAVA-DSA/tree/master/0509-fibonacci-number) |
+| [0516-longest-palindromic-subsequence](https://github.com/tharunacharya/JAVA-DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/tharunacharya/JAVA-DSA/tree/master/0518-coin-change-ii) |
 | [0746-min-cost-climbing-stairs](https://github.com/tharunacharya/JAVA-DSA/tree/master/0746-min-cost-climbing-stairs) |
 ## Stack
