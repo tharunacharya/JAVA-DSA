@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/tharunacharya/JAVA-DSA/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/tharunacharya/JAVA-DSA/tree/master/0131-palindrome-partitioning) |
 | [0516-longest-palindromic-subsequence](https://github.com/tharunacharya/JAVA-DSA/tree/master/0516-longest-palindromic-subsequence) |
+| [1092-shortest-common-supersequence](https://github.com/tharunacharya/JAVA-DSA/tree/master/1092-shortest-common-supersequence) |
 | [2938-separate-black-and-white-balls](https://github.com/tharunacharya/JAVA-DSA/tree/master/2938-separate-black-and-white-balls) |
 ## Sliding Window
 |  |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/tharunacharya/JAVA-DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/tharunacharya/JAVA-DSA/tree/master/0518-coin-change-ii) |
 | [0746-min-cost-climbing-stairs](https://github.com/tharunacharya/JAVA-DSA/tree/master/0746-min-cost-climbing-stairs) |
+| [1092-shortest-common-supersequence](https://github.com/tharunacharya/JAVA-DSA/tree/master/1092-shortest-common-supersequence) |
 ## Stack
 |  |
 | ------- |
@@ -201,4 +203,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0322-coin-change](https://github.com/tharunacharya/JAVA-DSA/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/tharunacharya/JAVA-DSA/tree/master/0518-coin-change-ii) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1092-shortest-common-supersequence](https://github.com/tharunacharya/JAVA-DSA/tree/master/1092-shortest-common-supersequence) |
 <!---LeetCode Topics End-->
