@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/tharunacharya/JAVA-DSA/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/tharunacharya/JAVA-DSA/tree/master/0042-trapping-rain-water) |
+| [0062-unique-paths](https://github.com/tharunacharya/JAVA-DSA/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/tharunacharya/JAVA-DSA/tree/master/0070-climbing-stairs) |
 | [0131-palindrome-partitioning](https://github.com/tharunacharya/JAVA-DSA/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/tharunacharya/JAVA-DSA/tree/master/0198-house-robber) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/tharunacharya/JAVA-DSA/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/tharunacharya/JAVA-DSA/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/tharunacharya/JAVA-DSA/tree/master/0509-fibonacci-number) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/tharunacharya/JAVA-DSA/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -222,4 +224,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/tharunacharya/JAVA-DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0646-maximum-length-of-pair-chain](https://github.com/tharunacharya/JAVA-DSA/tree/master/0646-maximum-length-of-pair-chain) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/tharunacharya/JAVA-DSA/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
