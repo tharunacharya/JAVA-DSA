@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/tharunacharya/JAVA-DSA/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/tharunacharya/JAVA-DSA/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/tharunacharya/JAVA-DSA/tree/master/0051-n-queens) |
+| [0063-unique-paths-ii](https://github.com/tharunacharya/JAVA-DSA/tree/master/0063-unique-paths-ii) |
 | [0075-sort-colors](https://github.com/tharunacharya/JAVA-DSA/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/tharunacharya/JAVA-DSA/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/tharunacharya/JAVA-DSA/tree/master/0079-word-search) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/tharunacharya/JAVA-DSA/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/tharunacharya/JAVA-DSA/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/tharunacharya/JAVA-DSA/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/tharunacharya/JAVA-DSA/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/tharunacharya/JAVA-DSA/tree/master/0070-climbing-stairs) |
 | [0131-palindrome-partitioning](https://github.com/tharunacharya/JAVA-DSA/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/tharunacharya/JAVA-DSA/tree/master/0198-house-robber) |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/tharunacharya/JAVA-DSA/tree/master/0037-sudoku-solver) |
+| [0063-unique-paths-ii](https://github.com/tharunacharya/JAVA-DSA/tree/master/0063-unique-paths-ii) |
 | [0079-word-search](https://github.com/tharunacharya/JAVA-DSA/tree/master/0079-word-search) |
 ## Dancing Links
 |  |
