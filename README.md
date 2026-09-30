@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/tharunacharya/JAVA-DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/tharunacharya/JAVA-DSA/tree/master/0322-coin-change) |
 | [0435-non-overlapping-intervals](https://github.com/tharunacharya/JAVA-DSA/tree/master/0435-non-overlapping-intervals) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/tharunacharya/JAVA-DSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0485-max-consecutive-ones](https://github.com/tharunacharya/JAVA-DSA/tree/master/0485-max-consecutive-ones) |
 | [0518-coin-change-ii](https://github.com/tharunacharya/JAVA-DSA/tree/master/0518-coin-change-ii) |
 | [0646-maximum-length-of-pair-chain](https://github.com/tharunacharya/JAVA-DSA/tree/master/0646-maximum-length-of-pair-chain) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/tharunacharya/JAVA-DSA/tree/master/0011-container-with-most-water) |
 | [0435-non-overlapping-intervals](https://github.com/tharunacharya/JAVA-DSA/tree/master/0435-non-overlapping-intervals) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/tharunacharya/JAVA-DSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0646-maximum-length-of-pair-chain](https://github.com/tharunacharya/JAVA-DSA/tree/master/0646-maximum-length-of-pair-chain) |
 | [2938-separate-black-and-white-balls](https://github.com/tharunacharya/JAVA-DSA/tree/master/2938-separate-black-and-white-balls) |
 ## Dynamic Programming
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/tharunacharya/JAVA-DSA/tree/master/0047-permutations-ii) |
 | [0075-sort-colors](https://github.com/tharunacharya/JAVA-DSA/tree/master/0075-sort-colors) |
 | [0435-non-overlapping-intervals](https://github.com/tharunacharya/JAVA-DSA/tree/master/0435-non-overlapping-intervals) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/tharunacharya/JAVA-DSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0646-maximum-length-of-pair-chain](https://github.com/tharunacharya/JAVA-DSA/tree/master/0646-maximum-length-of-pair-chain) |
 ## Quicksort
 |  |
