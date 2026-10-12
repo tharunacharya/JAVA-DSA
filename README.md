@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/tharunacharya/JAVA-DSA/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/tharunacharya/JAVA-DSA/tree/master/0131-palindrome-partitioning) |
 | [0516-longest-palindromic-subsequence](https://github.com/tharunacharya/JAVA-DSA/tree/master/0516-longest-palindromic-subsequence) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/tharunacharya/JAVA-DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1092-shortest-common-supersequence](https://github.com/tharunacharya/JAVA-DSA/tree/master/1092-shortest-common-supersequence) |
 | [2938-separate-black-and-white-balls](https://github.com/tharunacharya/JAVA-DSA/tree/master/2938-separate-black-and-white-balls) |
 ## Sliding Window
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/tharunacharya/JAVA-DSA/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/tharunacharya/JAVA-DSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0646-maximum-length-of-pair-chain](https://github.com/tharunacharya/JAVA-DSA/tree/master/0646-maximum-length-of-pair-chain) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/tharunacharya/JAVA-DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1710-maximum-units-on-a-truck](https://github.com/tharunacharya/JAVA-DSA/tree/master/1710-maximum-units-on-a-truck) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/tharunacharya/JAVA-DSA/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2938-separate-black-and-white-balls](https://github.com/tharunacharya/JAVA-DSA/tree/master/2938-separate-black-and-white-balls) |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/tharunacharya/JAVA-DSA/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/tharunacharya/JAVA-DSA/tree/master/0042-trapping-rain-water) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/tharunacharya/JAVA-DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -202,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/tharunacharya/JAVA-DSA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/tharunacharya/JAVA-DSA/tree/master/0022-generate-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/tharunacharya/JAVA-DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Algorithm X
 |  |
 | ------- |
