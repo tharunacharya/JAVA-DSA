@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/tharunacharya/JAVA-DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/tharunacharya/JAVA-DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1092-shortest-common-supersequence](https://github.com/tharunacharya/JAVA-DSA/tree/master/1092-shortest-common-supersequence) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/tharunacharya/JAVA-DSA/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2938-separate-black-and-white-balls](https://github.com/tharunacharya/JAVA-DSA/tree/master/2938-separate-black-and-white-balls) |
 ## Sliding Window
 |  |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/tharunacharya/JAVA-DSA/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/tharunacharya/JAVA-DSA/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tharunacharya/JAVA-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/tharunacharya/JAVA-DSA/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2938-separate-black-and-white-balls](https://github.com/tharunacharya/JAVA-DSA/tree/master/2938-separate-black-and-white-balls) |
 ## Greedy
 |  |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/tharunacharya/JAVA-DSA/tree/master/0646-maximum-length-of-pair-chain) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/tharunacharya/JAVA-DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1710-maximum-units-on-a-truck](https://github.com/tharunacharya/JAVA-DSA/tree/master/1710-maximum-units-on-a-truck) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/tharunacharya/JAVA-DSA/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/tharunacharya/JAVA-DSA/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2938-separate-black-and-white-balls](https://github.com/tharunacharya/JAVA-DSA/tree/master/2938-separate-black-and-white-balls) |
 ## Dynamic Programming
@@ -136,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/tharunacharya/JAVA-DSA/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/tharunacharya/JAVA-DSA/tree/master/0042-trapping-rain-water) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/tharunacharya/JAVA-DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/tharunacharya/JAVA-DSA/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -206,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/tharunacharya/JAVA-DSA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/tharunacharya/JAVA-DSA/tree/master/0022-generate-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/tharunacharya/JAVA-DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/tharunacharya/JAVA-DSA/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Algorithm X
 |  |
 | ------- |
