@@ -140,12 +140,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/tharunacharya/JAVA-DSA/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/tharunacharya/JAVA-DSA/tree/master/0042-trapping-rain-water) |
 | [0735-asteroid-collision](https://github.com/tharunacharya/JAVA-DSA/tree/master/0735-asteroid-collision) |
+| [0901-online-stock-span](https://github.com/tharunacharya/JAVA-DSA/tree/master/0901-online-stock-span) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/tharunacharya/JAVA-DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/tharunacharya/JAVA-DSA/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/tharunacharya/JAVA-DSA/tree/master/0042-trapping-rain-water) |
+| [0901-online-stock-span](https://github.com/tharunacharya/JAVA-DSA/tree/master/0901-online-stock-span) |
 ## Binary Search
 |  |
 | ------- |
@@ -265,4 +267,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/tharunacharya/JAVA-DSA/tree/master/0062-unique-paths) |
+## Design
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/tharunacharya/JAVA-DSA/tree/master/0901-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/tharunacharya/JAVA-DSA/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
