@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/tharunacharya/JAVA-DSA/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/tharunacharya/JAVA-DSA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0485-max-consecutive-ones](https://github.com/tharunacharya/JAVA-DSA/tree/master/0485-max-consecutive-ones) |
+| [0503-next-greater-element-ii](https://github.com/tharunacharya/JAVA-DSA/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/tharunacharya/JAVA-DSA/tree/master/0518-coin-change-ii) |
 | [0646-maximum-length-of-pair-chain](https://github.com/tharunacharya/JAVA-DSA/tree/master/0646-maximum-length-of-pair-chain) |
 | [0735-asteroid-collision](https://github.com/tharunacharya/JAVA-DSA/tree/master/0735-asteroid-collision) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/tharunacharya/JAVA-DSA/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/tharunacharya/JAVA-DSA/tree/master/0042-trapping-rain-water) |
+| [0503-next-greater-element-ii](https://github.com/tharunacharya/JAVA-DSA/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/tharunacharya/JAVA-DSA/tree/master/0735-asteroid-collision) |
 | [0901-online-stock-span](https://github.com/tharunacharya/JAVA-DSA/tree/master/0901-online-stock-span) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/tharunacharya/JAVA-DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/tharunacharya/JAVA-DSA/tree/master/0042-trapping-rain-water) |
+| [0503-next-greater-element-ii](https://github.com/tharunacharya/JAVA-DSA/tree/master/0503-next-greater-element-ii) |
 | [0901-online-stock-span](https://github.com/tharunacharya/JAVA-DSA/tree/master/0901-online-stock-span) |
 ## Binary Search
 |  |
