@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/tharunacharya/JAVA-DSA/tree/master/0646-maximum-length-of-pair-chain) |
 | [0735-asteroid-collision](https://github.com/tharunacharya/JAVA-DSA/tree/master/0735-asteroid-collision) |
 | [0746-min-cost-climbing-stairs](https://github.com/tharunacharya/JAVA-DSA/tree/master/0746-min-cost-climbing-stairs) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/tharunacharya/JAVA-DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1710-maximum-units-on-a-truck](https://github.com/tharunacharya/JAVA-DSA/tree/master/1710-maximum-units-on-a-truck) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/tharunacharya/JAVA-DSA/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/tharunacharya/JAVA-DSA/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/tharunacharya/JAVA-DSA/tree/master/0239-sliding-window-maximum) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/tharunacharya/JAVA-DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/tharunacharya/JAVA-DSA/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Heap (Priority Queue)
 |  |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/tharunacharya/JAVA-DSA/tree/master/0735-asteroid-collision) |
 | [0901-online-stock-span](https://github.com/tharunacharya/JAVA-DSA/tree/master/0901-online-stock-span) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/tharunacharya/JAVA-DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/tharunacharya/JAVA-DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/tharunacharya/JAVA-DSA/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Monotonic Stack
 |  |
@@ -198,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/tharunacharya/JAVA-DSA/tree/master/0735-asteroid-collision) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/tharunacharya/JAVA-DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/tharunacharya/JAVA-DSA/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Backtracking
 |  |
